@@ -34,22 +34,5 @@ Para rodar o projeto localmente, siga os seguintes passos:
    ```
 4. Acesse a aplicação em `http://localhost:4200/`.
 
-## Capturas de Tela
-
-### Página Inicial
-![bbfc1d4a-23ea-47da-b951-5fcb1023953d](https://github.com/user-attachments/assets/30410a1e-3cf7-4cc1-b387-0e041b4d71cb)
-
-
-### Sobre o Moments
-![Sobre o Moments](./path-to-your-image-file.jpg)
-
-### Formulário de Compartilhamento de Momentos
-![Compartilhar Momento](./path-to-your-image-file.jpg)
-
-## Contribuindo
-
-Se deseja contribuir com o projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT.
+   ## Repotório da API
+ https://github.com/lucasvieiraz/api_moments
